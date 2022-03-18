@@ -1,0 +1,11 @@
+body{
+    background: green;
+}
+
+#card{
+    width: 305px;
+    height: 450px;
+    background: white;
+    margin: 0 auto;
+    font-size: 5rem;
+}
