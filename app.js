@@ -4,3 +4,4 @@ let suit = ["♦","♥","♠","♣"]
 let icon = suit[Math.floor(Math.random()*suit.length)]
  document.querySelector("#cards").innerHTML = arr
 document.querySelector("#icon").innerHTML = icon
+document.querySelector("#iconTwo").innerHTML = icon
